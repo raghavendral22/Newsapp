@@ -10,7 +10,7 @@ export class HeadLinesComponent {
   show=false;
 
   constructor(private services:NewsApiService){ 
-    this
+
   }
   topheadingDisplay:any=[];
   ngOnInit():void{
